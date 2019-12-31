@@ -1,0 +1,3 @@
+[submodule "subprojects/ktx"]
+	path = subprojects/ktx
+	url = git@github.com:juliusikkala/libKTX.git
