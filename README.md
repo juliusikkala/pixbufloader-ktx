@@ -3,7 +3,7 @@ GdkPixBuf module for the KTX image format
 
 # PLEASE USE THE BELOW COMMAND TO CLONE THIS REPO:
 ```sh
-git clone git@github.com:juliusikkala/pixbufloader-ktx.git --recursive
+git clone https://github.com/juliusikkala/pixbufloader-ktx.git --recursive
 ```
 This repo uses submodules, `--recursive` fetches them automatically.
 
